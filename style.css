@@ -1,0 +1,20 @@
+#header > img {
+  height: 50px;
+  width: 100px;
+}
+#header a:hover {
+  color: lightblue !important;
+}
+#background {
+  background-image: url("image/background.jpeg");
+  height: 700px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.text-large {
+  font-size: 4rem;
+  font-family: sans-serif;
+}
+.text-shadow {
+  text-shadow: 2px 2px #2a2828;
+}
