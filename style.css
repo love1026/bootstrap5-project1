@@ -18,3 +18,14 @@
 .text-shadow {
   text-shadow: 2px 2px #2a2828;
 }
+
+.bg-lightgray {
+  background-color: lightgray;
+}
+#skills img {
+  height: 150px;
+  width: 150px;
+}
+#image-size img {
+  width: 700px;
+}
